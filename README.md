@@ -1,8 +1,8 @@
 # Dual-Model Architecture for Cow Health Monitoring
 
 **Authors:**  
+- **EL MASKYNE Mohamed-Amine** – mohamedamine.ing@elmaskyne.com
 - **EL GHARBI Abdellah** – abdellahelgharbi200229@gmail.com  
-- **EL MASKYNE Mohamed-Amine** – mohamedamine.ing@elmaskyne.com  
 - **AIT OUAHDA Younes** – younes.aitouahda@gmail.com  
 
 **Affiliation:**  
